@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <book>
+    <title cover="images/c.jpg">C Programming</title>
+    <category>Compiled</category>
+  </book>
+  <book>
+    <title cover="images/java.jpg">Java Programming</title>
+    <category>Compiled</category>
+  </book>
+  <book>
+    <title cover="images/jq.jpg">JQuery Programming</title>
+    <category>Interpreted</category>
+  </book>
+  <book>
+    <title cover="images/php.jpg">PHP Programming</title>
+    <category>Interpreted</category>
+  </book>
+  <book>
+    <title cover="images/sql.jpg">SQL Programming</title>
+    <category>Interpreted</category>
+  </book>
+</catalog>
